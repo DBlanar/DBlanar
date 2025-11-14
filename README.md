@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DBlanar
 - 👀 I’m interested in coding/programing
-- 🌱 I’m currently learning C#, C++, python, JS
+- 🌱 I’m currently learning C#, C++, C, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
